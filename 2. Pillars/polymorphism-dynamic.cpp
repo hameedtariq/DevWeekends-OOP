@@ -5,6 +5,7 @@ using namespace std;
 
 /*
   What is polymorphism ?
+    write one function and have it perform different behaviors based on the type of object
   Types:
   1. Static: Overloading and overriding
   2. Dynamic: Runtime Polymorphism

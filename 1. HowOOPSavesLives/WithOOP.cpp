@@ -3,10 +3,18 @@
 #include <vector>
 using namespace std;
 
+/*
+  Class - Blueprints
+  Objects - instances of those blueprints
+  Terminologies: Contructor, access specifiers, methods (setters, getters, other functions), data members
+*/
+
 class Player
 {
 private:
   string name;
+
+protected:
   int score;
 
 public:
